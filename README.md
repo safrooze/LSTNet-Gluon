@@ -7,6 +7,6 @@ Please refer to the paper for background on the network architecture.
 ## Running the script
 
 To get the list of commandline arguments:
-"""
+
 > python train.py --help
-"""
+
