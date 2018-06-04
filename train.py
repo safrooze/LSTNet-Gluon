@@ -60,7 +60,7 @@ def train(file_path, out_path):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='PyTorch Time series forecasting')
+    parser = argparse.ArgumentParser(description='LSTNet Time series forecasting')
     parser.add_argument('--data', type=str, required=True,
                         help='path of the data file')
     parser.add_argument('--out', type=str, required=True,
